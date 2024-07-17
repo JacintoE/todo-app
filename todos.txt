@@ -1,0 +1,6 @@
+type 1000 words
+plant a tree
+leave a note
+go to clinic
+go to school
+clean the toilet
